@@ -1,0 +1,12 @@
+1 create a database to accomodate all the institution
+2 create a database to accomodate all the department
+3 create a database to accomodate all the year
+4 create a database to accomodate all the coursetitle
+
+
+
+
+
+
+write a query to insert unique values of all the parameters
+the most strict is the coursetitle which must be compared to all the other values
